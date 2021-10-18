@@ -1,3 +1,4 @@
 voila == 0.2.10
 ipywidgets == 7.6.3
 ipython == 7.19.0
+pyttsx3 == 2.90
